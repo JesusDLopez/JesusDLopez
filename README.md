@@ -1,114 +1,60 @@
 <div align="center">
 
 # 🧬 Jesús D. López  
-### Data Science × Bioinformatics (in progress)  
-Currently attending **Le Wagon Data Science & AI Bootcamp (2025–2026)**
+### Data Science × Bioinformatics  
+Le Wagon DS & AI Bootcamp (2025–2026) — Lanzarote  
 
-📍 Based in Lanzarote, Spain — open to remote or hybrid roles in Europe.
-
-[🌐 Portfolio — coming soon](https://portfolio-kodas.vercel.app)  
-[LinkedIn — coming soon](https://linkedin.com/in/jesus-d-lopez)  
+[🌐 Portfolio (soon)](https://portfolio-kodas.vercel.app)  
+[LinkedIn (soon)](https://linkedin.com/in/jesus-d-lopez)  
 [Email](mailto:jlopezorourke@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-I’m Jesús, a Biotechnology graduate with a Master’s in Genetic Counselling.  
-During my five years in Australia, I worked as a **research assistant in melanoma genetics** while studying. I’ve always been deeply drawn to **genetics and genomics**, and while training to become a clinician, I noticed how much I enjoyed the technical side of the field — statistics, scripting, automation, and scientific computing.
+Biotech graduate with a Master’s in Genetic Counselling.  
+Worked five years in Australia as a research assistant in melanoma genetics, where I developed skills in stats, scripting and data workflows.
 
-Throughout my studies and work, I used **R, Python and JavaScript** for a mix of statistical modelling, data exploration, automation scripting, and producing clean analytical outputs. Over time, that technical path became the direction I wanted to pursue.
-
-Now I’m focusing on developing solid skills in **data science and bioinformatics**, combining my scientific background with modern tools and software development.
+Currently focusing on data science and bioinformatics, strengthening Python, scientific computing, and modern development tools.
 
 ---
 
-## 🚀 What I'm Focused On Right Now
+## 🚀 What I'm Doing Now  
 
-- Le Wagon Data Science & AI Bootcamp  
-- Strengthening Python for scientific computing and ML  
-- Improving JavaScript fundamentals and web development  
-- Building a focused scientific portfolio  
-- Developing small automation and data analysis projects  
-
----
-
-## 🛠️ Tech Stack
-
-### **Core**
-- **Python** — scientific stack (NumPy, Pandas, Matplotlib, Scikit-Learn)  
-- **R** — advanced statistics, modelling, clean reporting  
-- **JavaScript** — automation scripting & data handling  
-- **Git & GitHub**
-
-### **Learning / Improving**
-- **React & Vite**  
-- **D3.js**  
-- **Three.js**  
-- **SQL (beginner)**  
-
-### **Tools**
-- **PyMOL**  
-- **ChimeraX**  
-- **Blender** (basic for scientific animation)
+- Le Wagon DS & AI Bootcamp  
+- Python for scientific computing & ML  
+- JavaScript fundamentals + web development  
+- Building a scientific portfolio  
+- Small automation & analysis projects  
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Tech  
 
-### 🧬 Interactive Scientific Portfolio (in progress)  
-A visual and interactive portfolio exploring biology and data.  
-**Tech:** React • Three.js • D3.js  
-
----
-
-### 📊 Hearing Loss & Diabetes Analysis  
-Statistical modelling and interactive visualizations.  
-**Tech:** Python, R, D3.js  
+**Core:** Python, R, JavaScript, Git/GitHub  
+**Improving:** React, Vite, D3.js, Three.js, SQL  
+**Tools:** PyMOL, ChimeraX, Blender (basic)
 
 ---
 
-### 🧪 Bioinformatics Workshop Evaluation  
-Cleaning, analysis and visualization of participant feedback.  
-**Tech:** Python + custom charts  
+## 🌟 Projects  
+
+- **Interactive Scientific Portfolio** — React • Three.js • D3.js  
+- **Hearing Loss & Diabetes Analysis** — Python • R • D3.js  
+- **Bioinformatics Workshop Analysis** — Python  
+- **Automated PRS Report System** — JavaScript (Adobe InDesign JSX)
 
 ---
 
-### 📚 Automated PRS (Polygenic Risk Score) Report System  
-A scripting-based system that generated patient-ready PRS booklets.  
-**Tech:** JavaScript (Adobe InDesign JSX)
+## 🎯 Goals  
+
+**2025:** Publish portfolio; strengthen SQL + ML  
+**2026:** Finish Le Wagon; start in bioinformatics / data science
 
 ---
 
-## 🎯 Goals for 2025–2026
+## 📬 Contact  
 
-### **2025**
-- Publish my scientific portfolio website  
-- Strengthen SQL and machine learning foundations  
-
-### **2026**
-- Complete Le Wagon Data Science & AI Bootcamp
-- Land an entry-level role in **bioinformatics or data science**  
-- Keep improving my ML, bioinformatics and computational skills  
-- Write regularly on genetics, genomics and data topics  
-
-
----
-
-## 📬 Let's Connect
-
-Open to collaborations in:
-
-- Bioinformatics  
-- Data science  
-- Statistics & modelling  
-- Automation scripting  
-- Scientific visualizations  
-
-**Email:** jlopezorourke@gmail.com  
-**Portfolio:** coming soon  
-**LinkedIn:** coming soon
-
----
+**Email:** jlopezorourke@gmail.com

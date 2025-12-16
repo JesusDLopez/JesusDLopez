@@ -15,7 +15,7 @@ Le Wagon DS & AI Bootcamp (2025–2026) — Lanzarote
 ## 👨‍💻 About Me  
 
 Biotech graduate with a Master’s in Genetic Counselling.  
-Worked five years in Australia as a research assistant in melanoma genetics, where I developed skills in stats, scripting and data workflows.
+Worked two years in Australia as a research assistant in melanoma genetics, where I developed skills in stats, scripting and data workflows.
 
 Currently focusing on data science and bioinformatics, strengthening Python, scientific computing, and modern development tools.
 

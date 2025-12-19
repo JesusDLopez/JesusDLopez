@@ -50,7 +50,7 @@ Currently focusing on data science and bioinformatics, strengthening Python, sci
 
 ## 🎯 Goals  
 
-**2025:** Publish portfolio; strengthen SQL + ML  
+**2025:** Publish portfolio; strengthen ML skills
 **2026:** Finish Le Wagon; start in bioinformatics / data science
 
 ---

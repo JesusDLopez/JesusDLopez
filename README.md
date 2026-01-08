@@ -2,7 +2,6 @@
 
 # 🧬 Jesús D. López  
 ### Data Science × Bioinformatics  
-Le Wagon DS & AI Bootcamp (2025–2026) — Lanzarote  
 
 [🌐 Portfolio (soon)](https://portfolio-kodas.vercel.app)  
 [LinkedIn (soon)](https://linkedin.com/in/jesus-d-lopez)  

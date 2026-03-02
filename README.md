@@ -34,12 +34,12 @@
 
   ## 🛠️  Tech
 
-  **Languages:** Python · R · JavaScript · SQL · Bash
-  **ML/DS:** Scikit-learn · TensorFlow · PyTorch · Pandas · NumPy
-  **Bioinformatics:** scikit-allel · Biopython · GWAS · PRS · VCF
-  **Web:** React · D3.js · Three.js · Vite
-  **3D/Viz:** Blender (Molecular Nodes) · Three.js
-  **Cloud/Ops:** GCP · Docker · FastAPI
+  - **Languages:** Python · R · JavaScript · SQL · Bash
+  - **ML/DS:** Scikit-learn · TensorFlow · PyTorch · Pandas · NumPy
+  - **Bioinformatics:** scikit-allel · Biopython · GWAS · PRS · VCF
+  - **Web:** React · D3.js · Three.js · Vite
+  - **3D/Viz:** Blender (Molecular Nodes) · Three.js
+  - **Cloud/Ops:** GCP · Docker · FastAPI
 
   ---
 

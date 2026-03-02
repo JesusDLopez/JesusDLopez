@@ -1,59 +1,75 @@
-<div align="center">
+  ---                                                                                                                                         
+  <div align="center">                                                                                                                        
+                                                                                                                                              
+  # 🧬 Jesús D. López                                                                                                                         
+  ### Data Science × Bioinformatics × Clinical Genomics                                                                                       
+                                                                                                                                              
+  [🌐 Portfolio](https://www.jadlopez.dev) · [LinkedIn](https://linkedin.com/in/jesus-lopez-orourke) · [Email](mailto:jlopezorourke@gmail.com)
 
-# 🧬 Jesús D. López  
-### Data Science × Bioinformatics  
+  </div>
 
-[🌐 Portfolio (soon)](https://portfolio-kodas.vercel.app)  
-[LinkedIn (soon)](https://linkedin.com/in/jesus-d-lopez)  
-[Email](mailto:jlopezorourke@gmail.com)
+  ---
 
-</div>
+  ## 👨‍💻 About Me
 
----
+  Biotechnologist + Genetic Counsellor turned Data Scientist.
+  Two years as a research assistant at the Translational Research Institute Australia —
+  analysing 300K+ patient records, building ML pipelines, and automating clinical reporting.
 
-## 👨‍💻 About Me  
+  I work at the intersection of computational biology and machine learning,
+  with a focus on population genetics, genomic risk, and scientific visualisation.
 
-Biotech graduate with a Master’s in Genetic Counselling.  
-Worked two years in Australia as a research assistant in melanoma genetics, where I developed skills in stats, scripting and data workflows.
+  Currently: TA at Le Wagon | Building bioinformatics/ML projects | Johns Hopkins Genomic Data Science
 
-Currently focusing on data science and bioinformatics, strengthening Python, scientific computing, and modern development tools.
+  ---
 
----
+  ## 🚀 What I'm Doing Now
 
-## 🚀 What I'm Doing Now  
+  - Teaching Assistant — Le Wagon Data Science & AI
+  - Population ancestry classifier from 1000 Genomes VCF data
+  - Johns Hopkins Genomic Data Science specialisation
+  - Deepening: Transformers, NGS pipelines, cloud ML (GCP/AWS)
 
-- Le Wagon DS & AI Bootcamp  
-- Python for scientific computing & ML  
-- JavaScript fundamentals + web development  
-- Building a scientific portfolio  
-- Small automation & analysis projects  
+  ---
 
----
+  ## 🛠️  Tech
 
-## 🛠️ Tech  
+  **Languages:** Python · R · JavaScript · SQL · Bash
+  **ML/DS:** Scikit-learn · TensorFlow · PyTorch · Pandas · NumPy
+  **Bioinformatics:** scikit-allel · Biopython · GWAS · PRS · VCF
+  **Web:** React · D3.js · Three.js · Vite
+  **3D/Viz:** Blender (Molecular Nodes) · Three.js
+  **Cloud/Ops:** GCP · Docker · FastAPI
 
-**Core:** Python, R, JavaScript, Git/GitHub  
-**Improving:** React, Vite, D3.js, Three.js, SQL  
-**Tools:** PyMOL, ChimeraX, Blender (basic)
+  ---
 
----
+  ## 🌟 Projects
 
-## 🌟 Projects  
+  - **[Ancestry Detective](https://github.com/JesusDLopez/ancestry-detective)** — ML population classifier from 1000 Genomes VCF · Python ·
+  scikit-allel · Random Forest
+  - **[FlopOrTop](https://github.com/gogainda/floportop)** — IMDb rating predictor · FastAPI · GCP · Scikit-learn
+  - **[jadlopez.dev](https://www.jadlopez.dev)** — Scientific portfolio · React · D3.js · Three.js · Blender Molecular Nodes
+  - **Automated PRS Report System** — Clinical genomics pipeline · Python · R · Adobe InDesign JSX
+  - **Neonatal Hearing Loss Study** — 300K+ records · R · Python · Statistical modelling
 
-- **Interactive Scientific Portfolio** — React • Three.js • D3.js  
-- **Hearing Loss & Diabetes Analysis** — Python • R • D3.js  
-- **Bioinformatics Workshop Analysis** — Python  
-- **Automated PRS Report System** — JavaScript (Adobe InDesign JSX)
+  ---
 
----
+  ## 📄 Publications
 
-## 🎯 Goals  
+  - **López O'Rourke et al.** — Poster, ASDR Annual Scientific Meeting, July 2024
+  - 3 manuscripts in preparation (genomics, PRS automation, mixed-methods research)
 
-**2025:** Publish portfolio; strengthen ML skills
-**2026:** Finish Le Wagon; start in bioinformatics / data science
+  ---
 
----
+  ## 🎯 Goals
 
-## 📬 Contact  
+  **Now:** Build strong bioinformatics/ML portfolio · Grow as a teacher
+  **Next:** Role or PhD at the intersection of AI and human genetics
 
-**Email:** jlopezorourke@gmail.com
+  ---
+
+  ## 📬 Contact
+
+  **Email:** jlopezorourke@gmail.com · **Portfolio:** jadlopez.dev
+
+  ---

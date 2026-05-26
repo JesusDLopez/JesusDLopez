@@ -1,75 +1,70 @@
-  ---                                                                                                                                         
-  <div align="center">                                                                                                                        
-                                                                                                                                              
-  # 🧬 Jesús D. López                                                                                                                         
-  ### Data Science × Bioinformatics × Clinical Genomics                                                                                       
-                                                                                                                                              
-  [🌐 Portfolio](https://www.jadlopez.dev) · [LinkedIn](https://linkedin.com/in/jesus-lopez-orourke) · [Email](mailto:jlopezorourke@gmail.com)
+---
 
-  </div>
+<div align="center">
 
-  ---
+# Jesús D. López
 
-  ## 👨‍💻 About Me
+### Freelance dev · Genomics × ML × AI · Le Wagon TA
 
-  Biotechnologist + Genetic Counsellor turned Data Scientist.
-  Two years as a research assistant at the Translational Research Institute Australia —
-  analysing 300K+ patient records, building ML pipelines, and automating clinical reporting.
+[🌐 jesusdlopez.dev](https://jesusdlopez.dev) · [LinkedIn](https://linkedin.com/in/jesus-lopez-orourke) · [Email](mailto:hola@jesusdlopez.dev)
 
-  I work at the intersection of computational biology and machine learning,
-  with a focus on population genetics, genomic risk, and scientific visualisation.
+</div>
 
-  Currently: TA at Le Wagon | Building bioinformatics/ML projects | Johns Hopkins Genomic Data Science
+---
 
-  ---
+## About
 
-  ## 🚀 What I'm Doing Now
+I build web apps for businesses — mainly small and medium companies in the Canary Islands and research teams. Stack: **Next.js + Supabase + TypeScript**. Based in Lanzarote, working as a freelancer under the brand **Jesús D. López Tecnología**.
 
-  - Teaching Assistant — Le Wagon Data Science & AI
-  - Population ancestry classifier from 1000 Genomes VCF data
-  - Johns Hopkins Genomic Data Science specialisation
-  - Deepening: Transformers, NGS pipelines, cloud ML (GCP/AWS)
+Before: two years as a research assistant at Translational Research Institute Australia — 300K+ patient records, ML pipelines, automated clinical reporting. Biotechnologist + genetic counsellor by training.
 
-  ---
+Teaching Assistant for Data Science & AI at **Le Wagon**.
 
-  ## 🛠️  Tech
+---
 
-  - **Languages:** Python · R · JavaScript · SQL · Bash
-  - **ML/DS:** Scikit-learn · TensorFlow · PyTorch · Pandas · NumPy
-  - **Bioinformatics:** scikit-allel · Biopython · GWAS · PRS · VCF
-  - **Web:** React · D3.js · Three.js · Vite
-  - **3D/Viz:** Blender (Molecular Nodes) · Three.js
-  - **Cloud/Ops:** GCP · Docker · FastAPI
+## What I'm doing now
 
-  ---
+- **Freelance dev** — end-to-end apps for clients in industry, hospitality, public sector, and e-commerce. Currently live: [Maruka](https://marukacafe.com).
+- **Le Wagon TA** — Data Science & AI bootcamp.
+- **Side: AI × genetics** — personal projects (population ancestry classifier, NGS experiments). Long-term obsession: build real apps at this intersection.
 
-  ## 🌟 Projects
+---
 
-  - **[Ancestry Detective](https://github.com/JesusDLopez/ancestry-detective)** — ML population classifier from 1000 Genomes VCF · Python ·
-  scikit-allel · Random Forest
-  - **[FlopOrTop](https://github.com/gogainda/floportop)** — IMDb rating predictor · FastAPI · GCP · Scikit-learn
-  - **[jadlopez.dev](https://www.jadlopez.dev)** — Scientific portfolio · React · D3.js · Three.js · Blender Molecular Nodes
-  - **Automated PRS Report System** — Clinical genomics pipeline · Python · R · Adobe InDesign JSX
-  - **Neonatal Hearing Loss Study** — 300K+ records · R · Python · Statistical modelling
+## 🛠️ Tech
 
-  ---
+- **Web app stack:** Next.js (App Router) · TypeScript · Supabase (Postgres + Auth + RLS + Storage) · Tailwind · Vercel
+- **Data / ML:** Python · Pandas · Scikit-learn · TensorFlow · PyTorch · R
+- **Bioinformatics:** scikit-allel · Biopython · VCF · GWAS / PRS
+- **Other:** Three.js · D3.js · Blender (Molecular Nodes) · FastAPI · Docker · GCP
 
-  ## 📄 Publications
+---
 
-  - **López O'Rourke et al.** — Poster, ASDR Annual Scientific Meeting, July 2024
-  - 3 manuscripts in preparation (genomics, PRS automation, mixed-methods research)
+## 🌟 Things I've built
 
-  ---
+- **[jesusdlopez.dev](https://jesusdlopez.dev)** — My website + client portal. Next.js 16, Supabase, electronic signatures (eIDAS SES), invoice tracking. *Private repo.*
+- **[Maruka](https://marukacafe.com)** — Public website for a cafe in Lanzarote.
+- **Familia Tiroglass** — Internal orchestration platform for an industrial joinery (~50 employees). In progress.
+- **Ancestry Detective** — Side project. Population ancestry ML classifier from 1000 Genomes VCF data. Python · scikit-allel · Random Forest. *Private repo.*
+- **[FlopOrTop](https://github.com/gogainda/floportop)** — IMDb rating predictor. FastAPI · GCP · Scikit-learn.
 
-  ## 🎯 Goals
+---
 
-  **Now:** Build strong bioinformatics/ML portfolio · Grow as a teacher
-  **Next:** Role or PhD at the intersection of AI and human genetics
+## 📄 Publications
 
-  ---
+- López O'Rourke et al. — Poster, ASDR Annual Scientific Meeting, July 2024.
+- 3 manuscripts in preparation (genomics, PRS automation, mixed-methods research).
 
-  ## 📬 Contact
+---
 
-  **Email:** jlopezorourke@gmail.com · **Portfolio:** jadlopez.dev
+## 🎯 Goals
 
-  ---
+**Now:** grow the freelance practice · keep getting better as a teacher · keep ML/genomics side projects alive.
+**Next:** build apps at the **AI × genetics** intersection as a freelance dev — real products for real users, not academic research.
+
+---
+
+## 📬 Contact
+
+**Email:** hola@jesusdlopez.dev · **Portfolio:** [jesusdlopez.dev](https://jesusdlopez.dev)
+
+---

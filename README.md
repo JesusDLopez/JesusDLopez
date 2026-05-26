@@ -6,7 +6,7 @@
 
 ### Freelance dev · Genomics × ML × AI · Le Wagon TA
 
-[🌐 jesusdlopez.dev](https://jesusdlopez.dev) · [LinkedIn](https://linkedin.com/in/jesus-lopez-orourke) · [Email](mailto:hola@jesusdlopez.dev)
+[🌐 jesusdlopez.dev](https://jesusdlopez.dev) · [LinkedIn](https://linkedin.com/in/jesus-lopez-orourke) · [Email](mailto:jesus@jesusdlopez.dev)
 
 </div>
 
@@ -65,6 +65,6 @@ Teaching Assistant for Data Science & AI at **Le Wagon**.
 
 ## 📬 Contact
 
-**Email:** hola@jesusdlopez.dev · **Portfolio:** [jesusdlopez.dev](https://jesusdlopez.dev)
+**Email:** jesus@jesusdlopez.dev · **Portfolio:** [jesusdlopez.dev](https://jesusdlopez.dev)
 
 ---

@@ -24,7 +24,7 @@ Teaching Assistant for Data Science & AI at **Le Wagon**.
 
 ## What I'm doing now
 
-- **Freelance dev** — end-to-end apps for clients in industry, hospitality, public sector, and e-commerce. Currently live: [Maruka](https://marukacafe.com).
+- **Freelance dev** — end-to-end apps for clients in industry, hospitality, public sector, and e-commerce.
 - **Le Wagon TA** — Data Science & AI bootcamp.
 - **Side: AI × genetics** — personal projects (population ancestry classifier, NGS experiments). Long-term obsession: build real apps at this intersection.
 
@@ -42,8 +42,7 @@ Teaching Assistant for Data Science & AI at **Le Wagon**.
 ## 🌟 Things I've built
 
 - **[jesusdlopez.dev](https://jesusdlopez.dev)** — My website + client portal. Next.js 16, Supabase, electronic signatures (eIDAS SES), invoice tracking. *Private repo.*
-- **[Maruka](https://marukacafe.com)** — Public website for a cafe in Lanzarote.
-- **Familia Tiroglass** — Internal orchestration platform for an industrial joinery (~50 employees). In progress.
+- **Bogart Badass** — Client e-commerce + brand site. Live. *Private repo.*
 - **Ancestry Detective** — Side project. Population ancestry ML classifier from 1000 Genomes VCF data. Python · scikit-allel · Random Forest. *Private repo.*
 - **[FlopOrTop](https://github.com/gogainda/floportop)** — IMDb rating predictor. FastAPI · GCP · Scikit-learn.
 

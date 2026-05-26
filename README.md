@@ -42,7 +42,7 @@ Teaching Assistant for Data Science & AI at **Le Wagon**.
 ## 🌟 Things I've built
 
 - **[jesusdlopez.dev](https://jesusdlopez.dev)** — My website + client portal. Next.js 16, Supabase, electronic signatures (eIDAS SES), invoice tracking. *Private repo.*
-- **Bogart Badass** — Client e-commerce + brand site. Live. *Private repo.*
+- **[Bogart Badass](https://bogartbadass.com)** — Client e-commerce + brand site. Live. *Private repo.*
 - **Ancestry Detective** — Side project. Population ancestry ML classifier from 1000 Genomes VCF data. Python · scikit-allel · Random Forest. *Private repo.*
 - **[FlopOrTop](https://github.com/gogainda/floportop)** — IMDb rating predictor. FastAPI · GCP · Scikit-learn.
 
